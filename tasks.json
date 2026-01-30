@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "task-4",
+      "title": "Create Users Screen",
+      "status": "pending",
+      "description": "User management interface showing guest information, staff details, and access levels with search and filter options."
+    },
+    {
+      "id": "task-5",
+      "title": "Create Reports Screen",
+      "status": "pending",
+      "description": "Analytics dashboard with revenue metrics, occupancy statistics, and performance indicators. Display data in cards and charts."
+    },
+    {
+      "id": "task-6",
+      "title": "Create Services/Access Control Screen",
+      "status": "pending",
+      "description": "Access control management showing service permissions, user access levels, and toggle switches for different services and features."
+    },
+    {
+      "id": "task-7",
+      "title": "Create Add License Screen",
+      "status": "pending",
+      "description": "License management form with input fields for license details, validity dates, and activation options. Include license history section."
+    }
+  ]
+}

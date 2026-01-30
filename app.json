@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "myExpoApp",
-    "slug": "myExpoApp",
+    "name": "Nugen Atria",
+    "slug": "nugen-atria",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myexpoapp",
+    "scheme": "exponativewind",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
@@ -22,6 +22,7 @@
       "predictiveBackGestureEnabled": false
     },
     "web": {
+      "bundler": "metro",
       "output": "static",
       "favicon": "./assets/images/favicon.png"
     },
